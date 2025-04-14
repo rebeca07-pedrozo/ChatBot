@@ -1,0 +1,16 @@
+google-credentials.json
+*.json
+
+.idea/
+*.iml
+
+target/
+
+*.class
+
+*.log
+
+Thumbs.db
+.DS_Store
+
+chromedriver.exe
